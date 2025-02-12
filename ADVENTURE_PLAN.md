@@ -19,4 +19,3 @@ Welcome to the adventure game! In this game, the player is presented with differ
     Swim across – Leads to Swim Path, where the player gets lost and must find a way out.
     Walk through – Leads to Walk Path, where the player faces different challenges, such as quicksand or dangerous creatures.
 
-
