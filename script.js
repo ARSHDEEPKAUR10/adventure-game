@@ -21,7 +21,7 @@ const story = {
         question: "You are in a swamp. Do you want to swim across or walk through it?",
         choices: [
             { text: "Swim across", nextState: "swimPath" },
-            { text: "Walk through", nextState: "walkPath" }
+            { text: "Walk through", nextState: "walkpath" }
         ]
     },
     swordPath: {
