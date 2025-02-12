@@ -49,11 +49,9 @@ function renderQuestion() {
     });
 }
 
-
 function restartGame() {
     currentState = 'start';
     renderQuestion();
 }
-
 
 renderQuestion();
